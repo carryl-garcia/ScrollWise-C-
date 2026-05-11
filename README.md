@@ -1,4 +1,4 @@
-# ScrollWise 📱
+# ScrollWise 
 A C++ console-based application that helps users log, track, and reflect on their digital scrolling habits.
 
 ## Features
