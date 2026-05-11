@@ -1,0 +1,3 @@
+# Scrollwise
+
+ScrollWise is a C++ console-based application that helps users log, track, and reflect on their digital scrolling habits. It uses a vector of structs as its primary data structure, where each `ScrollSession` struct stores the app name, date, duration, content type, and daily goal. Aggregate totals and content insights are computed by iterating through the session vector using nested loops.
